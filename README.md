@@ -48,4 +48,4 @@ Netflix's content library expanded dramatically between 2016 and 2020. This proj
 
 ## Project
 
-[https://github.com/aravindvrajeev/netflix_content_analysis/blob/main/netflix_content_analysis.ipynb]
+[View Notebook](https://github.com/aravindvrajeev/netflix_content_analysis/blob/main/netflix_content_analysis.ipynb)
