@@ -42,7 +42,8 @@ Netflix's content library expanded dramatically between 2016 and 2020. This proj
 ---
 
 ## Screenshot
-<img width="3041" height="1634" alt="movies_year_added" src="https://github.com/user-attachments/assets/2da0eb49-d2b9-4897-9f38-c8469bb8aa92" />
+<img width="2691" height="1831" alt="genre_comp" src="https://github.com/user-attachments/assets/88665091-84ef-4bf2-a15f-56a4f1e176c6" />
+
 
 
 
