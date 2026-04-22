@@ -8,7 +8,7 @@ Netflix's content library expanded dramatically between 2016 and 2020. This proj
 
 ## Key Questions
 
--  Beyond action, drama, and comedy, which 3 genres constitute a significant share of Netflix's catalogue for movies released in the 1990s, 2000s, and 2010s?
+-  Beyond Action, Drama, and Comedy, which 3 genres constitute a significant share of Netflix's catalogue for movies released in the 1990s, 2000s, and 2010s?
 - From which countries has Netflix acquired movies during the spike in content added between 2016 and 2020? Which genres constitute a significant share (at least 10%) of the content the countries contributed to?
 - Has the average movie duration decreased across release decades?
 - What does the early 2020s data suggest about content direction?
@@ -17,9 +17,9 @@ Netflix's content library expanded dramatically between 2016 and 2020. This proj
 
 ## Key Findings
 
-- Netflix's pre-spike catalog was unexpectedly concentrated in 'children', 'documentary', and 'stand-up' genres  
-- The 2010s acquisition spike pulled the catalog toward a core-genre-dominant ('action', 'drama', 'comedy' ) profile overall  
-- Representation of 'children', 'documentary', and 'stand-up' content also broadened after the spike  
+- Netflix's pre-spike catalog was unexpectedly concentrated in the Children, Documentaries, and Stand-Up genres  
+- The 2010s acquisition spike pulled the catalog toward a core-genre-dominant (Action, Drama, Comedy ) profile overall  
+- Representation of Children, Documentaries, and Stand-Up content also broadened after the spike  
 - The number of countries whose content was acquired from also increased significantly post the spike  
 - Preference for newer movies with shorter duration was also observed
 - The 2020s data indicate that the US and India will make significant contributions to the catalogue
